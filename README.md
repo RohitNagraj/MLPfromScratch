@@ -17,7 +17,7 @@
 ![Dataset Distribution](images/dataset.png)
 
 ### **Architecture used**
-![MLP Architecture](images/nn.svg)
+![MLP Architecture](images/nn.png)
 
 ### **Loss and Accuracies**
 ![Loss and Accuracies](images/train_test_plots.png)
