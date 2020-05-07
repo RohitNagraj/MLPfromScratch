@@ -14,13 +14,13 @@
 **Date of submission: 07 May 2020**
 
 ### **Dataset Distribution**
-![Dataset Distribution](images/dataset.png)
+![Dataset Distribution](Assignment_MLP/images/dataset.png)
 
 ### **Architecture used**
-![MLP Architecture](images/nn.png)
+![MLP Architecture](Assignment_MLP/images/nn.png)
 
 ### **Loss and Accuracies**
-![Loss and Accuracies](images/plots.png)
+![Loss and Accuracies](Assignment_MLP/images/plots.png)
 
 ### **Results**
 ```
@@ -28,4 +28,4 @@ Test Accuracy: 96.0%
 ```
 **Confusion matrix**
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Assignment_MLP/images/confusion_matrix.png)
