@@ -20,12 +20,12 @@
 ![MLP Architecture](images/nn.png)
 
 ### **Loss and Accuracies**
-![Loss and Accuracies](images/train_test_plots.png)
+![Loss and Accuracies](images/plots.png)
 
 ### **Results**
 ```
-Test Accuracy: 94.0%
+Test Accuracy: 96.0%
 ```
 **Confusion matrix**
 
-![Confusion Matrix](images/confusion.png)
+![Confusion Matrix](images/confusion_matrix.png)
